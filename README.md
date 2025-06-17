@@ -1,0 +1,1 @@
+Ce portfolio personnel présente mes compétences en développement web, mes projets réalisés, ainsi que mes soft skills et hard skills. Conçu pour montrer mon savoir-faire en HTML, CSS, JavaScript, et ma capacité à créer des sites modernes et professionnels. Ce site est un espace de présentation destiné à mettre en valeur mon parcours, mes projets et mes compétences techniques."
